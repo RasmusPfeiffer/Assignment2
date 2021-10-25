@@ -32,6 +32,7 @@ The rest of the logic can be held inside of a JobsFilteringApplication Class, wh
 
 
 Sample Output
+
 iOS/Android Mobile App Developer - Java, Swift
 Freshop, Inc.
 $88,000 - $103,000 a year
